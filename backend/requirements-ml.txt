@@ -1,0 +1,19 @@
+# ML model dependencies for tabular synthetic data generation
+# Requires Python 3.11 or 3.12 (torch lacks Python 3.13 wheels).
+# All packages are lazily imported with fallbacks — the app runs without them
+# but specific synthesis models will be unavailable.
+#
+# IMPORTANT: synthcity and smartnoise-synth conflict on opacus versions
+# and cannot be installed together. Pick one based on your needs.
+#
+# Core ML (needed for CTGAN, TVAE, GaussianCopula, CopulaGAN):
+#   pip install torch>=2.0.0 "sdv>=1.17.0"
+#
+# Additional models (install individually as needed):
+#   pip install "synthcity>=0.2.12"        # TabDDPM, CTAB-GAN+, Bayesian Network
+#   pip install "realtabformer>=0.2.0"     # GPT-2 based tabular transformer
+#   pip install "gretel-synthetics>=0.20.0" # DGAN time-series generation
+#   pip install "smartnoise-synth>=1.0.0"  # DP-CTGAN (conflicts with synthcity)
+
+torch>=2.0.0
+sdv>=1.17.0

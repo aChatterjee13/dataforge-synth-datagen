@@ -1,0 +1,51 @@
+transaction_id,product_category,quantity,unit_price,discount_pct,total_amount,payment_method,region,customer_age,satisfaction_score
+T-2001,Electronics,3,89.99,0.25,202.48,Credit Card,West,22,3.1
+T-2002,Electronics,2,149.95,0.20,239.92,PayPal,West,24,2.8
+T-2003,Electronics,1,55.50,0.30,38.85,Digital Wallet,West,21,2.5
+T-2004,Books,1,49.99,0.15,42.49,Credit Card,Northeast,30,3.2
+T-2005,Electronics,2,44.99,0.25,67.49,Digital Wallet,West,23,2.9
+T-2006,Electronics,1,189.00,0.30,132.30,PayPal,West,25,3.0
+T-2007,Electronics,3,69.99,0.20,167.98,Digital Wallet,West,22,2.7
+T-2008,Home & Garden,1,249.99,0.10,224.99,Credit Card,West,35,3.5
+T-2009,Books,1,39.95,0.05,37.95,Credit Card,Midwest,48,3.4
+T-2010,Electronics,2,39.99,0.25,59.99,Digital Wallet,West,24,2.6
+T-2011,Electronics,1,299.99,0.30,209.99,PayPal,West,21,3.1
+T-2012,Electronics,2,199.95,0.20,319.92,Credit Card,Northeast,55,3.8
+T-2013,Electronics,1,54.99,0.15,46.74,Digital Wallet,West,23,2.8
+T-2014,Electronics,1,149.99,0.25,112.49,Digital Wallet,West,25,2.9
+T-2015,Clothing,1,159.00,0.10,143.10,PayPal,Southeast,28,3.3
+T-2016,Electronics,2,179.99,0.20,287.98,Credit Card,West,22,3.0
+T-2017,Electronics,4,24.99,0.15,84.97,PayPal,West,24,2.5
+T-2018,Electronics,1,99.95,0.30,69.97,Digital Wallet,West,21,2.7
+T-2019,Books,1,44.99,0.05,42.74,Credit Card,Southeast,40,3.5
+T-2020,Electronics,1,79.99,0.25,59.99,Digital Wallet,West,23,2.8
+T-2021,Electronics,2,299.99,0.30,419.99,Credit Card,West,25,3.2
+T-2022,Electronics,3,44.99,0.20,107.98,PayPal,West,22,2.6
+T-2023,Electronics,1,119.99,0.25,89.99,Digital Wallet,West,24,2.9
+T-2024,Home & Garden,1,59.99,0.05,56.99,Debit Card,Southeast,30,3.6
+T-2025,Clothing,1,64.95,0.10,58.46,Credit Card,Midwest,46,3.4
+T-2026,Electronics,2,199.99,0.30,279.99,Digital Wallet,West,21,2.5
+T-2027,Books,1,42.99,0.05,40.84,Credit Card,Northeast,34,3.3
+T-2028,Electronics,3,39.99,0.20,95.98,Digital Wallet,West,23,2.7
+T-2029,Electronics,2,24.99,0.25,37.49,PayPal,West,25,2.8
+T-2030,Home & Garden,1,39.99,0.05,37.99,Debit Card,Midwest,42,3.5
+T-2031,Electronics,1,69.99,0.20,55.99,Digital Wallet,West,22,2.6
+T-2032,Electronics,2,29.99,0.25,44.99,PayPal,West,24,2.9
+T-2033,Electronics,1,89.99,0.30,62.99,Digital Wallet,West,21,2.4
+T-2034,Electronics,2,59.99,0.20,95.98,Digital Wallet,West,23,2.7
+T-2035,Books,1,35.99,0.05,34.19,Credit Card,Midwest,50,3.3
+T-2036,Electronics,3,32.99,0.25,74.23,PayPal,West,25,2.8
+T-2037,Electronics,1,54.99,0.20,43.99,Digital Wallet,West,22,2.5
+T-2038,Electronics,2,119.95,0.30,167.93,Credit Card,West,24,2.9
+T-2039,Electronics,1,47.99,0.15,40.79,Digital Wallet,West,21,2.6
+T-2040,Electronics,2,89.99,0.25,134.99,Digital Wallet,West,23,2.7
+T-2041,Clothing,1,28.99,0.10,26.09,Credit Card,Northeast,55,3.2
+T-2042,Electronics,1,79.99,0.20,63.99,Digital Wallet,West,25,2.8
+T-2043,Electronics,3,64.99,0.25,146.23,PayPal,West,22,2.5
+T-2044,Electronics,2,42.99,0.20,68.78,Digital Wallet,West,24,2.9
+T-2045,Home & Garden,1,89.99,0.05,85.49,Credit Card,Midwest,48,3.6
+T-2046,Electronics,1,139.99,0.30,97.99,Digital Wallet,West,21,2.4
+T-2047,Electronics,2,54.99,0.25,82.49,PayPal,West,23,2.7
+T-2048,Electronics,1,44.99,0.20,35.99,Digital Wallet,West,25,2.8
+T-2049,Electronics,3,34.99,0.25,78.73,Digital Wallet,West,22,2.5
+T-2050,Electronics,1,29.99,0.15,25.49,Digital Wallet,West,24,2.6

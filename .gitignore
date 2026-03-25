@@ -1,0 +1,29 @@
+# Environment
+.env
+.env.*
+!.env.example
+venv/
+__pycache__/
+*.pyc
+
+# Databases
+*.db
+
+# Upload/output artifacts
+uploads/
+outputs/
+backend/backend/
+
+# OS files
+.DS_Store
+
+# Logs
+logs/
+
+# Frontend
+node_modules/
+dist/
+
+# Root CSV files (generated data)
+final_training_data_ctgan*.csv
+sample_data.csv

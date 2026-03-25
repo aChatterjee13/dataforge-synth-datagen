@@ -1,0 +1,51 @@
+item_id,order_id,product_name,category,quantity,unit_price
+8001,5001,Wireless Headphones,Electronics,1,79.99
+8002,5001,Phone Case,Accessories,2,24.99
+8003,5001,Screen Protector,Accessories,1,24.99
+8004,5002,Bluetooth Speaker,Electronics,1,89.99
+8005,5003,Running Shoes,Footwear,1,129.50
+8006,5003,Athletic Socks 3pk,Clothing,2,17.50
+8007,5003,Water Bottle,Accessories,1,29.99
+8008,5003,Headband,Accessories,2,9.99
+8009,5004,Book - Python Basics,Books,1,45.99
+8010,5005,Smart Watch,Electronics,1,249.00
+8011,5005,Watch Band,Accessories,2,14.50
+8012,5005,Charging Cable,Electronics,1,19.99
+8013,5006,Yoga Mat,Fitness,1,34.99
+8014,5006,Resistance Band Set,Fitness,1,22.99
+8015,5006,Grip Towel,Fitness,1,9.52
+8016,5007,Noise Cancelling Earbuds,Electronics,1,199.99
+8017,5008,Desk Lamp,Home,1,45.99
+8018,5008,USB Hub,Electronics,1,32.96
+8019,5009,Standing Desk,Furniture,1,399.00
+8020,5009,Desk Mat,Accessories,1,24.99
+8021,5009,Cable Organizer,Accessories,1,12.99
+8022,5010,Backpack,Accessories,1,89.99
+8023,5010,Travel Adapter,Electronics,1,19.99
+8024,5010,Packing Cubes,Accessories,1,16.01
+8025,5011,Running Shorts,Clothing,2,34.99
+8026,5011,Sports Bra,Clothing,1,19.52
+8027,5012,Coffee Maker,Kitchen,1,119.99
+8028,5012,Coffee Grinder,Kitchen,1,36.76
+8029,5013,Tablet Case,Accessories,1,39.99
+8030,5013,Stylus Pen,Electronics,1,29.99
+8031,5013,Screen Cleaner,Accessories,2,14.99
+8032,5013,Tablet Stand,Accessories,1,24.99
+8033,5014,Moisturizer,Beauty,2,24.99
+8034,5014,Sunscreen,Beauty,1,18.99
+8035,5014,Lip Balm 3pk,Beauty,2,15.01
+8036,5015,Electric Kettle,Kitchen,1,54.99
+8037,5015,Tea Set,Kitchen,1,89.99
+8038,5015,Tea Variety Pack,Food,2,29.99
+8039,5015,Honey Jar,Food,1,12.99
+8040,5015,Infuser,Kitchen,2,19.99
+8041,5015,Mug Set,Kitchen,1,34.99
+8042,5015,Coasters 6pk,Home,1,14.99
+8043,5016,Phone Charger,Electronics,1,24.99
+8044,5016,Lightning Cable,Electronics,1,14.99
+8045,5016,Car Mount,Accessories,1,15.02
+8046,5017,Fitness Tracker,Electronics,1,99.99
+8047,5017,Extra Band,Accessories,2,12.99
+8048,5017,Screen Protector,Accessories,1,9.99
+8049,5018,Throw Pillow,Home,2,24.99
+8050,5018,Blanket,Home,1,38.77

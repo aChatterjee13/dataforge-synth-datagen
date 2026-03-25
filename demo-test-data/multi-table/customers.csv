@@ -1,0 +1,13 @@
+customer_id,first_name,last_name,email,phone,city,state,signup_date,loyalty_tier
+1,Alice,Martinez,alice.martinez@email.com,555-0101,New York,NY,2023-01-15,Gold
+2,Bob,Johnson,bob.johnson@email.com,555-0102,Los Angeles,CA,2023-02-20,Silver
+3,Carol,Williams,carol.williams@email.com,555-0103,Chicago,IL,2023-03-10,Bronze
+4,David,Brown,david.brown@email.com,555-0104,Houston,TX,2023-04-05,Gold
+5,Eva,Davis,eva.davis@email.com,555-0105,Phoenix,AZ,2023-05-18,Silver
+6,Frank,Garcia,frank.garcia@email.com,555-0106,Philadelphia,PA,2023-06-22,Bronze
+7,Grace,Miller,grace.miller@email.com,555-0107,San Antonio,TX,2023-07-30,Gold
+8,Henry,Wilson,henry.wilson@email.com,555-0108,San Diego,CA,2023-08-14,Silver
+9,Irene,Moore,irene.moore@email.com,555-0109,Dallas,TX,2023-09-01,Bronze
+10,Jack,Taylor,jack.taylor@email.com,555-0110,San Jose,CA,2023-10-12,Gold
+11,Karen,Anderson,karen.anderson@email.com,555-0111,Austin,TX,2023-11-05,Silver
+12,Leo,Thomas,leo.thomas@email.com,555-0112,Jacksonville,FL,2023-12-18,Bronze

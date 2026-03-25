@@ -1,0 +1,41 @@
+patient_id,age,gender,blood_type,bmi,systolic_bp,diastolic_bp,cholesterol_total,glucose_fasting,diagnosis,medication,visit_date,smoker,exercise_hrs_week,insurance_type
+P-1001,45,Male,A+,27.3,138,88,215,102,Hypertension,Lisinopril,2024-03-01,false,2.5,Private
+P-1002,32,Female,O+,22.1,118,76,185,89,Healthy,,2024-03-01,false,5.0,Employer
+P-1003,58,Male,B+,31.5,155,95,248,128,Type 2 Diabetes,Metformin,2024-03-02,true,0.5,Medicare
+P-1004,41,Female,AB-,24.8,122,80,198,94,Healthy,,2024-03-02,false,3.0,Private
+P-1005,67,Male,A-,29.2,162,98,265,145,Hypertension,Amlodipine,2024-03-03,false,1.0,Medicare
+P-1006,29,Female,O-,20.5,110,70,172,82,Healthy,,2024-03-03,false,6.0,Employer
+P-1007,53,Male,B-,33.8,148,92,232,118,Hyperlipidemia,Atorvastatin,2024-03-04,true,1.5,Private
+P-1008,36,Female,A+,25.9,126,82,201,96,Pre-diabetic,,2024-03-04,false,2.0,Employer
+P-1009,72,Male,O+,28.1,170,100,278,152,Type 2 Diabetes,Insulin,2024-03-05,false,0.0,Medicare
+P-1010,48,Female,AB+,23.4,120,78,192,91,Healthy,,2024-03-05,false,4.0,Private
+P-1011,55,Male,A+,30.2,145,90,240,112,Hypertension,Losartan,2024-03-06,true,1.0,Employer
+P-1012,38,Female,B+,21.8,115,74,180,86,Healthy,,2024-03-06,false,4.5,Private
+P-1013,64,Male,O-,27.9,158,96,255,135,Hyperlipidemia,Rosuvastatin,2024-03-07,false,2.0,Medicare
+P-1014,43,Female,A-,26.3,130,84,208,100,Pre-diabetic,,2024-03-07,false,3.0,Employer
+P-1015,71,Male,B-,32.1,168,102,272,148,Type 2 Diabetes,Metformin,2024-03-08,true,0.0,Medicare
+P-1016,25,Female,O+,19.8,108,68,165,80,Healthy,,2024-03-08,false,5.5,Employer
+P-1017,59,Male,AB+,28.7,152,94,245,122,Hypertension,Lisinopril,2024-03-09,false,1.5,Private
+P-1018,34,Female,A+,23.0,116,75,188,88,Healthy,,2024-03-09,false,4.0,Employer
+P-1019,62,Male,O+,30.8,160,97,258,138,Hyperlipidemia,Atorvastatin,2024-03-10,true,0.5,Medicare
+P-1020,47,Female,B+,25.1,128,82,204,98,Pre-diabetic,,2024-03-10,false,3.5,Private
+P-1021,50,Male,A-,29.5,142,89,228,108,Hypertension,Amlodipine,2024-03-11,false,2.0,Employer
+P-1022,27,Female,O-,21.2,112,72,175,84,Healthy,,2024-03-11,false,6.0,Employer
+P-1023,69,Male,AB-,31.3,164,99,268,142,Type 2 Diabetes,Insulin,2024-03-12,false,0.5,Medicare
+P-1024,40,Female,B-,24.2,124,79,196,93,Healthy,,2024-03-12,false,3.0,Private
+P-1025,56,Male,A+,33.0,150,93,238,116,Hypertension,Losartan,2024-03-13,true,1.0,Private
+P-1026,31,Female,O+,22.5,114,73,182,87,Healthy,,2024-03-13,false,5.0,Employer
+P-1027,65,Male,B+,28.4,156,95,252,132,Hyperlipidemia,Rosuvastatin,2024-03-14,false,1.5,Medicare
+P-1028,37,Female,A-,20.9,116,74,178,85,Healthy,,2024-03-14,false,4.5,Employer
+P-1029,73,Male,O-,29.8,172,101,275,150,Type 2 Diabetes,Metformin,2024-03-15,true,0.0,Medicare
+P-1030,44,Female,AB+,25.6,132,85,210,102,Pre-diabetic,,2024-03-15,false,2.5,Private
+P-1031,51,Male,B-,27.1,140,88,222,106,Hypertension,Lisinopril,2024-03-16,false,2.0,Employer
+P-1032,33,Female,A+,23.8,118,76,190,90,Healthy,,2024-03-16,false,4.0,Private
+P-1033,60,Male,O+,32.4,154,94,242,120,Hyperlipidemia,Atorvastatin,2024-03-17,true,1.0,Medicare
+P-1034,39,Female,AB-,24.5,122,78,195,92,Healthy,,2024-03-17,false,3.5,Employer
+P-1035,68,Male,A+,30.6,166,100,270,144,Type 2 Diabetes,Insulin,2024-03-18,false,0.5,Medicare
+P-1036,26,Female,B+,20.2,110,70,168,81,Healthy,,2024-03-18,false,5.5,Employer
+P-1037,54,Male,O-,28.9,146,91,235,114,Hypertension,Amlodipine,2024-03-19,true,1.5,Private
+P-1038,42,Female,A-,25.3,128,83,206,99,Pre-diabetic,,2024-03-19,false,3.0,Employer
+P-1039,70,Male,B-,31.7,169,101,274,146,Hypertension,Losartan,2024-03-20,false,0.0,Medicare
+P-1040,35,Female,O+,22.8,114,74,184,88,Healthy,,2024-03-20,false,4.5,Private
